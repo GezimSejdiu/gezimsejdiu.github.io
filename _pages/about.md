@@ -15,4 +15,4 @@ I am a PhD Student & Research Associate at the [University of Bonn](https://www.
 Room A120
 Römerstr. 164, 53117 Bonn
 University of Bonn, Computer Science
-sejdiu@cs.uni-bonn.de
+<sejdiu@cs.uni-bonn.de>
