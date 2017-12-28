@@ -8,8 +8,6 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-<h2><strong>Publications</strong></h2>
 <hr />
 <h3>2017</h3>
 <ul>
