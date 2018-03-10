@@ -16,6 +16,7 @@ I am a PhD Student & Research Associate at the [University of Bonn](https://www.
  * Semantic Web and Semantic Search
  * Machine Learning
  * Distributed Computing
+<hr>
 
 **Contact**
 ------
@@ -23,3 +24,5 @@ Room 1.052
 Endenicher Allee 19a, 53115 Bonn  
 University of Bonn, Computer Science  
 sejdiu_[at]_cs.uni-bonn.de>
+<hr>
+{% twitter https://twitter.com/Gezim_Sejdiu maxwidth=500 limit=5 %}
