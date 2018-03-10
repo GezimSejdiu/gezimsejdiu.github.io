@@ -25,4 +25,6 @@ Endenicher Allee 19a, 53115 Bonn
 University of Bonn, Computer Science  
 sejdiu_[at]_cs.uni-bonn.de>
 <hr>
-{% twitter https://twitter.com/Gezim_Sejdiu maxwidth=500 limit=5 %}
+<div class='jekyll-twitter-plugin'>
+          {% twitter https://twitter.com/Gezim_Sejdiu maxwidth=500 align=right link-color=#0896fe limit=5 %}
+</div>
