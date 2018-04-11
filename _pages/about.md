@@ -30,7 +30,15 @@ I am a PhD Student & Research Associate at the [University of Bonn](https://www.
     </div>
   </article>
 
-<hr>
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "GezimSejdiu");
+</script>
 
 **Contact** 
 ------
