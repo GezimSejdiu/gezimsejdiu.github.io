@@ -23,6 +23,8 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
+  gem 'feedjira'
+  gem 'jekyll-display-medium-posts', '~> 0.3.0 '
   gem 'jekyll-twitter-plugin', '~> 2.0'
 
 end
