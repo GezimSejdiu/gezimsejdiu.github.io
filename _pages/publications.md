@@ -9,6 +9,10 @@ author_profile: true
 {% endif %}
 <hr />
 
+### 2018
+*  **G. Sejdiu**, I. Ermilov, J. Lehmann, and M. Nadjib-Mami, “DistLODStats: Distributed Computation of RDF Dataset Statistics,” in Proceedings of 17th International Semantic Web Conference, 2018. [[Download PDF](http://jens-lehmann.org/files/2018/iswc_distlodstats.pdf)]
+<hr>
+
 ### 2017
 * J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, I. Ermilov, S. Bin, N. Chakraborty, M. Saleem, A. N. Ngonga, and H. Jabeen, "Distributed Semantic Analytics using the SANSA Stack,"; in _Proceedings of 16th International Semantic Web Conference - Resources Track ([ISWC'2017](https://iswc2017.semanticweb.org/)),  2017. [[Download PDF](http://svn.aksw.org/papers/2017/ISWC_SANSA_SoftwareFramework/public.pdf)]
 
