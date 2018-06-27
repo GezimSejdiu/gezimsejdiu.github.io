@@ -14,8 +14,9 @@ author_profile: true
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
   * [Mohamad Denno](https://github.com/mhddenno), since 2017; Master Thesis (co-supervision with Dr. Hajira Jabeen and Prof. Dr. Jens Lehmann
-  * [li Denno](https://github.com/AliDenno), since 2017; Master Thesis (co-supervision with Dr. Hajira Jabeen and Prof. Dr. Jens Lehmann
+  * [Ali Denno](https://github.com/AliDenno), since 2017; Master Thesis (co-supervision with Dr. Hajira Jabeen and Prof. Dr. Jens Lehmann
   * [Nayef Roqaya](https://github.com/nayefroqaya), since 2017; Master Thesis (co-supervision with Dr. Hajira Jabeen and Prof. Dr. Jens Lehmann
   * [Imran Khan](https://github.com/imransilvake), since 2017; Master Thesis (co-supervision with Dr. Ioanna Lytra and Prof. Dr. Jens Lehmann
   * [Rohan Asmat](https://github.com/RohanAsmat),  since 2017; Web Development.
   * [Julius Kaufmann](https://github.com/juliuskaufmann), since 2017; DevOps.
+  * [Adrian Bajraktari](https://github.com/AdrianBajraktari), since 2018; Web Development.
