@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gezim Sejdiu"
 title_separator          : "-"
 name                     : &name "Gezim Sejdiu"
-description              : &description "personal description"
+description              : &description "Research Associate and PhD Student @uni.bonn"
 url                      : https://gezimsejdiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GezimSejdiu/gezimsejdiu.github.io"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gëzim-sejdiu-08b1761b/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -244,6 +244,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog
       author_profile: true
       share: true
 
