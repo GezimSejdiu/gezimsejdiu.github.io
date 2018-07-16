@@ -37,7 +37,7 @@ I am a PhD Student & Research Associate at the [University of Bonn](https://www.
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "GezimSejdiu");
+    GitHubCalendar(".calendar", "GezimSejdiu", {responsive:true});
 </script>
 
 **Contact** 
