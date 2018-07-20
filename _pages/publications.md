@@ -14,7 +14,7 @@ author_profile: true
 <hr>
 
 ### 2017
-* J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, I. Ermilov, S. Bin, N. Chakraborty, M. Saleem, A. N. Ngonga, and H. Jabeen, "Distributed Semantic Analytics using the SANSA Stack,"; in _Proceedings of 16th International Semantic Web Conference - Resources Track ([ISWC'2017](https://iswc2017.semanticweb.org/)),  2017. [[Download PDF](http://svn.aksw.org/papers/2017/ISWC_SANSA_SoftwareFramework/public.pdf)]
+* J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, I. Ermilov, S. Bin, N. Chakraborty, M. Saleem, A. N. Ngonga, and H. Jabeen, "Distributed Semantic Analytics using the SANSA Stack,"; in _Proceedings of 16th International Semantic Web Conference - Resources Track ([ISWC'2017](https://iswc2017.semanticweb.org/)),  2017. [[Download PDF](http://jens-lehmann.org/files/2017/iswc_sansa.pdf)]
 
 * I. Ermilov, A. N. Ngomo, A. Versteden, H. Jabeen, **G. Sejdiu**, G. Argyriou, L. Selmi, J. Jakobitsch, and J. Lehmann, "Managing Lifecycle of Big Data Applications,"; in _KESW_,  2017. [[Download PDF](https://svn.aksw.org/papers/2017/KESW_BDE_Workflow/public.pdf)]
 
