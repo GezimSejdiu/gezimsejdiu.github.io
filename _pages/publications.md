@@ -11,6 +11,8 @@ author_profile: true
 
 ### 2018
 *  **G. Sejdiu**, I. Ermilov, J. Lehmann, and M. Nadjib-Mami, “DistLODStats: Distributed Computation of RDF Dataset Statistics,” in Proceedings of 17th International Semantic Web Conference, 2018. [[Download PDF](http://jens-lehmann.org/files/2018/iswc_distlodstats.pdf)]
+
+*  **G. Sejdiu**, I. Ermilov,  M. Nadjib-Mami and J. Lehmann, “STATisfy Me: What are my Stats?,” in Proceedings of 17th International Semantic Web Conference, Poster & Demos, 2018. [[Download PDF](assets/publications/STATisfyMe__pd_ISWC2018.pdf)]
 <hr>
 
 ### 2017
