@@ -17,8 +17,8 @@ author_profile: true
 * Supervision
   * [Wang Zhe](https://github.com/CescWang1991), 2018; Master Thesis: "Efficient In-memory Graph Partitioning Algorithms and Query Engine for RDF Data"  
         (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  * [Kunal Jha](https://github.com/Kunal-Jha), 2017 – 2018; Master Thesis: (co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/), Tommaso Soru, Michael Roeder and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  [Mohamad Denno](https://github.com/mhddenno), 2017 - 2018; Master Thesis: “Scalable deep learning technique for sensitive data exposure detection”  
+  * [Kunal Jha](https://github.com/Kunal-Jha), since 2018; Master Thesis: (co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/), Tommaso Soru, Michael Roeder and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Mohamad Denno](https://github.com/mhddenno), 2017 - 2018; Master Thesis: “Scalable deep learning technique for sensitive data exposure detection”  
         (co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
   * [Ali Denno](https://github.com/AliDenno), 2017 - 2018; Master Thesis: “Scalable Knowledge Graph Exploration for Sentiment Classification”  
         (co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
