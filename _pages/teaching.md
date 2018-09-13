@@ -17,6 +17,7 @@ author_profile: true
   * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis: (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Abakar Bouba, since 2018; Master Thesis: (co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Gulnar Khalilova, since 2018; Master Thesis: (co-supervision with [Dr. Anisa Rula](http://sda.cs.uni-bonn.de/people/dr-anisa-rula/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * Moumen Elteir, since 2018; Master Thesis: (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Wang Zhe](https://github.com/CescWang1991), 2018; Master Thesis: "Efficient In-memory Graph Partitioning Algorithms and Query Engine for RDF Data"  
         (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Kunal Jha](https://github.com/Kunal-Jha), 2018; Master Thesis: "Rule Mining on Distributed RDF Data"  
