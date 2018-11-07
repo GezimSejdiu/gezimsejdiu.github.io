@@ -5,13 +5,9 @@ author_profile: true
 ---
 
 * **Courses**
-  * Summer Semester 2018  
-  [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
+  * [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
   <sub> _The goal is to provide experience and technical skills related to Big data processing tools like Flink and Spark, in addition, to make them acquainted with the functional programming style prevalent in concurrent and parallel programming for Big data._ <br />
-  * Winter Semester 2017/18  
-  [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)
-  * Summer Semester 2017  
-  [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
+  (**SoSe2017**, **WiSe2017/18**, **SoSe2018**, **WiSe2018/19**)
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
   * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis: (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
