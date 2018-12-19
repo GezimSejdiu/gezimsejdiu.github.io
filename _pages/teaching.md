@@ -10,7 +10,8 @@ author_profile: true
   (**SoSe2017**, **WiSe2017/18**, **SoSe2018**, **WiSe2018/19**)
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
-  * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis: (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Mohammad Ghasemi](https://github.com/imghasemi), since 2018; Master Thesis: (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis: (co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)) 
   * Abakar Bouba, since 2018; Master Thesis: (co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Gulnar Khalilova, since 2018; Master Thesis: (co-supervision with [Dr. Anisa Rula](http://sda.cs.uni-bonn.de/people/dr-anisa-rula/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Moumen Elteir, since 2018; Master Thesis: (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
