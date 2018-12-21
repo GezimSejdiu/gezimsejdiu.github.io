@@ -13,7 +13,10 @@ main:
     url: /awards/ 
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+  
+  - title: "Workshops & Tutorials"
+    url: /workshops-tutorials/  
 
   #- title: "Blog"
   #  url: /blog/ 
