@@ -10,10 +10,10 @@ author_profile: true
   (**SoSe2017**, **WiSe2017/18**, **SoSe2018**, **WiSe2018/19**)
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
+  * Emetis Niazmand, since 2019; Master Thesis <br />
+  <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [David Ibhaluobe](https://github.com/davidibhaluobe), since 2019; Master Thesis<br />
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  * Emetis Niazmand, since 2018; Master Thesis <br />
-  <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Mohammad Ghasemi](https://github.com/imghasemi), since 2018; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis<br />
