@@ -54,7 +54,7 @@ SYSTEM ANALYST & SENIOR SOFTWARE DEVELOPER <br>
 <li>Worked on analyzing, reviewing and developing new <nobr>in-house</nobr> ﬁnancial software</li></ul></small>
 
 <b><a href="http://expertgroupks.com/">EXPIK</a></b><br>
-SOFTWARE DEVELOPER
+SOFTWARE DEVELOPER <br>
 <small>July 2008 – February 2009 | Prishtina, Kosovo</small><br>
 <small><ul>
 <li>Worked on the developing new software applications</li></ul></small>
