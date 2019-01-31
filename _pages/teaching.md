@@ -10,7 +10,7 @@ author_profile: true
   (**SoSe2017**, **WiSe2017/18**, **SoSe2018**, **WiSe2018/19**)
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
-  * Emetis Niazmand, since 2019; Master Thesis <br />
+  * [Emetis Niazmand](https://github.com/ENiaz), since 2019; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Gresa Halimi (University of Prishtina), since 2019; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/))
