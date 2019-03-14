@@ -7,7 +7,7 @@ author_profile: true
 * **Courses**
   * [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
   <sub> _The goal is to provide experience and technical skills related to Big data processing tools like Flink and Spark, in addition, to make them acquainted with the functional programming style prevalent in concurrent and parallel programming for Big data._ <br />
-  (**SoSe2017**, **WiSe2017/18**, **SoSe2018**, **WiSe2018/19**)
+  (**SoSe2019**, _WiSe2018/19_, _SoSe2018_, _WiSe2017/18_, _SoSe2017_)
 * Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
 * Supervision
   * [Emetis Niazmand](https://github.com/ENiaz), since 2019; Master Thesis <br />
@@ -16,16 +16,16 @@ author_profile: true
   <sub>(co-supervision with [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/))
   * [David Ibhaluobe](https://github.com/davidibhaluobe), since 2019; Master Thesis<br />
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  * [Mohammad Ghasemi](https://github.com/imghasemi), since 2018; Master Thesis <br />
-  <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis<br />
   <sub>(co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)) 
-  * [Abakar Bouba](https://github.com/abakarboubaa), since 2018; Master Thesis<br />
-  <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  * [Gulnar Khalilova](https://github.com/GulnarKhalil), since 2018; Master Thesis<br />
-  <sub> (co-supervision with [Dr. Anisa Rula](http://sda.cs.uni-bonn.de/people/dr-anisa-rula/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Moumen Elteir, since 2018; Master Thesis<br />
   <sub> (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Mohammad Ghasemi](https://github.com/imghasemi), 2018 - 2019; Master Thesis: "An efficient semantic-based Entity-Resolution over Big RDF data with [SANSA](http://sansa-stack.net/) framework" <br />
+  <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Abakar Bouba](https://github.com/abakarboubaa), 2018 - 2019; Master Thesis: "RDF Data Compression Techniques in a Highly Distributed Context" <br />
+  <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Gulnar Khalilova](https://github.com/GulnarKhalil), 2018; Master Thesis<br />
+  <sub> (co-supervision with [Dr. Anisa Rula](http://sda.cs.uni-bonn.de/people/dr-anisa-rula/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Wang Zhe](https://github.com/CescWang1991), 2018; Master Thesis: "Efficient In-memory Graph Partitioning Algorithms and Query Engine for RDF Data"<br />
   <sub>(co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Kunal Jha](https://github.com/Kunal-Jha), 2018; Master Thesis: "Rule Mining on Distributed RDF Data"<br />
