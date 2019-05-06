@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<sub>Also avaliable on <a href="/assets/Gezim_Sejdiu_Resume.pdf">PDF format</a>.
+<sub>Also avaliable on <a href="/Gezim_Sejdiu_Resume.pdf">PDF format</a>.
 <STYLE type="text/css">
 #page_1 {position:relative; overflow: hidden;margin: 0px 0px 0px 0px;padding: 0px;border: none;width: 816px;}
 #page_1 #id1_1 {border:none;margin: 0px 0px 0px 261px;padding: 0px;border:none;width: 555px;overflow: hidden;}
@@ -76,7 +76,7 @@ Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search 
 <b>PROGRAMMING LANGUAGES</b><br>
 Scala • Java • C# • JavaScript<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce<br>
+Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce • DevOps/Docker<br>
 
 <h2>WORKSHOPS & TUTORIALS</h2>
 <b>WORKSHOPS</b>
