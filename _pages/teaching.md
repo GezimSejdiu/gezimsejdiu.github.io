@@ -16,10 +16,10 @@ author_profile: true
   <sub>(co-supervision with [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/))
   * [David Ibhaluobe](https://github.com/davidibhaluobe), since 2019; Master Thesis<br />
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  * [Pardeep Naik](https://github.com/livinnatious), since 2018; Master Thesis<br />
-  <sub>(co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)) 
   * Moumen Elteir, since 2018; Master Thesis<br />
   <sub> (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
+  * [Pardeep Naik](https://github.com/livinnatious), 2018 - 2019; Master Thesis: "An efficient recommendation system for RDF partitioners over large-scale RDF datasets" <br />
+  <sub>(co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)) 
   * [Mohammad Ghasemi](https://github.com/imghasemi), 2018 - 2019; Master Thesis: "An efficient semantic-based Entity-Resolution over Big RDF data with [SANSA](http://sansa-stack.net/) framework" <br />
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Abakar Bouba](https://github.com/abakarboubaa), 2018 - 2019; Master Thesis: "RDF Data Compression Techniques in a Highly Distributed Context" <br />
