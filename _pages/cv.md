@@ -44,7 +44,7 @@ RESEARCH ASSOCIATE + PHD STUDENT<br>
 <small>May 2016 – | Bonn, Germany</small><br>
 <small><ul>
 <li>Working with Semantic Web, Big Data and Data Analysis. Also interested in the area of distributed computing systems (Apache Spark, Apache Flink)</li>
-<li>Conducting Distributed Big Data Analytics Lab for master student</li>
+<li>Conducting [Distributed Big Data Analytics Lab](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab) for master student</li>
 <li>Master thesis supervision</li></ul></small>
 
 <b><a href="http://www.keds-energy.com/">KEDS</a></b><br> 
