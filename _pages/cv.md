@@ -94,4 +94,4 @@ Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apach
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 21st June 2019.</small><br>
+<small>Last Updated on 15th July 2019.</small><br>
