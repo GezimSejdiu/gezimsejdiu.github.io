@@ -63,10 +63,12 @@ SOFTWARE DEVELOPER <br>
 ISWC 2017 Best demonstration award at the International Semantic Web Conference
 
 <h2>TALKS</h2>
-DistLODStats: Distributed Computation of RDF Dataset Statistics <a  href="http://iswc2018.semanticweb.org/">@ISWC 2018</a>, 8-12.10.2018 (<a href="https://www.slideshare.net/GezimSejdiu/distlodstats-distributed-computation-of-rdf-dataset-statistics-iswc-2018-talk">slides</a>)<br>
-The Tale of SANSA Spark :: SANSA-Notebooks: Developer friendly access to SANSA <a href="https://iswc2017.semanticweb.org/">@ISWC 2017</a>, 21-25.10.2017 (<a href="https://www.slideshare.net/GezimSejdiu/the-tale-of-sansa-spark-iswc-2017-demo">slides</a>, <a href="https://youtu.be/aHCoWmzUJlE">demo</a>)<br>
-Distributed Knowledge Graph Processing in SANSA @HPI Future SOC – Lab Day (Spring 2017), 25.04.2017 (<a href="http://www.tele-task.de/archive/video/html5/32700/">video</a>).
-A demo of Apache Flink with Docker on the BDE platform @2nd BDE Technical Webinar, 20.10.2016 (<a href="https://docs.google.com/presentation/d/1SGnIgtTXPzGbyImmq4NnsYN36U8h5jA3J5RQvE0rVsI/edit#slide=id.p3!">slides</a>, <a href="https://www.youtube.com/watch?v=1zHIhFDDdCg&feature=youtu.be">video</a>)
+<b>Towards A Scalable Semantic-based Distributed Approach for SPARQL query evaluation</b> <a href="https://2019.semantics.cc/">@SEMANTiCS 2019</a>, 9-12.09.2019 (<a href="https://www.slideshare.net/GezimSejdiu/towards-a-scalable-semanticbased-distributed-approach-for-sparql-query-evaluation-semantics-2019-talk">slides</a>)
+<br>
+<b>DistLODStats: Distributed Computation of RDF Dataset Statistics</b> <a  href="http://iswc2018.semanticweb.org/">@ISWC 2018</a>, 8-12.10.2018 (<a href="https://www.slideshare.net/GezimSejdiu/distlodstats-distributed-computation-of-rdf-dataset-statistics-iswc-2018-talk">slides</a>)<br>
+<b>The Tale of SANSA Spark :: SANSA-Notebooks: Developer friendly access to SANSA</b> <a href="https://iswc2017.semanticweb.org/">@ISWC 2017</a>, 21-25.10.2017 (<a href="https://www.slideshare.net/GezimSejdiu/the-tale-of-sansa-spark-iswc-2017-demo">slides</a>, <a href="https://youtu.be/aHCoWmzUJlE">demo</a>)<br>
+<b>Distributed Knowledge Graph Processing in SANSA</b> @HPI Future SOC – Lab Day (Spring 2017), 25.04.2017 (<a href="http://www.tele-task.de/archive/video/html5/32700/">video</a>).
+<b>A demo of Apache Flink with Docker on the BDE platform</b> @2nd BDE Technical Webinar, 20.10.2016 (<a href="https://docs.google.com/presentation/d/1SGnIgtTXPzGbyImmq4NnsYN36U8h5jA3J5RQvE0rVsI/edit#slide=id.p3!">slides</a>, <a href="https://www.youtube.com/watch?v=1zHIhFDDdCg&feature=youtu.be">video</a>)
 </DIV>
 </DIV>
 <DIV id="id1_3">
