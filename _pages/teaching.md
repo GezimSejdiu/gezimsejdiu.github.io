@@ -14,7 +14,7 @@ author_profile: true
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Gresa Halimi](https://github.com/Gressa) (University of Prishtina), since 2019; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/))
-  * [David Ibhaluobe](https://github.com/davidibhaluobe), since 2019; Master Thesis<br />
+  * [David Ibhaluobe](https://github.com/ibhadavid), since 2019; Master Thesis<br />
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Moumen Elteir, since 2018; Master Thesis<br />
   <sub> (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
