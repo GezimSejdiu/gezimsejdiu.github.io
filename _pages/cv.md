@@ -29,10 +29,7 @@ MS IN COMPUTER ENGINEERING <br>
 BS IN COMPUTER SCIENCE<br>
 <small>January 2009 | Prishtina, Kosovo GPA: 8.69 / 10.0</small>
 <h2>LINKS</h2>
-Github:// <a href="https://github.com/GezimSejdiu">GezimSejdiu</a><br>
-Google Scholar:// <a href="https://scholar.google.com/citations?user=Lpbwr9oAAAAJ&hl=en">GezimSejdiu</a><br>
-LinkedIn:// <a href="https://www.linkedin.com/in/gëzim-sejdiu-08b1761b/">GezimSejdiu</a><br>
-Twitter:// <a href="https://twitter.com/Gezim_Sejdiu">@Gezim_Sejdiu</a><br>
+<a href="https://github.com/GezimSejdiu">Github</a> | <a href="https://scholar.google.com/citations?user=Lpbwr9oAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/gezim-sejdiu-08b1761b/">LinkedIn</a> | <a href="https://twitter.com/Gezim_Sejdiu">Twitter</a><br>
 <h2>LANGUAGES</h2> <br>
 ALBANIAN | Native <br>
 ENGLISH  | Professional working <br>
@@ -41,7 +38,7 @@ ENGLISH  | Professional working <br>
 <h2>EXPERIENCE</h2>
 <b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b><br>
 RESEARCH ASSOCIATE + PHD STUDENT<br>
-<small>May 2016 – | Bonn, Germany</small><br>
+<small>May 2016 – Present | Bonn, Germany</small><br>
 <small><ul>
 <li>Working with Semantic Web, Big Data and Data Analysis. Also interested in the area of distributed computing systems (Apache Spark, Apache Flink)</li>
 <li>Conducting <a href="https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab">Distributed Big Data Analytics Lab</a> for master student</li>
