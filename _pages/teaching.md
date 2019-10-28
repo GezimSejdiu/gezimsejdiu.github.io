@@ -14,7 +14,7 @@ author_profile: true
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Gresa Halimi](https://github.com/Gressa) (University of Prishtina), since 2019; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/))
-  * [David Ibhaluobe](https://github.com/ibhadavid), since 2019; Master Thesis<br />
+  * [David Ibhaluobe](https://github.com/ibhadavid), 2019; Master Thesis: "A Scalable SPARQL Query Engine Over Large-Scale Compressed RDF Data Using [SANSA](http://sansa-stack.net/)" <br />
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * Moumen Elteir, since 2018; Master Thesis<br />
   <sub> (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
@@ -38,6 +38,6 @@ author_profile: true
   <sub>(co-supervision with [Dr. Ioanna Lytra](http://sda.cs.uni-bonn.de/people/dr-ioanna-lytra/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
   * [Nayef Roqaya](https://github.com/nayefroqaya), 2017 - 2018; Master Thesis: "Distributed Data Parsing and Vandalism Detection on Large Knowledge Graphs using Apache Spark and Hadoop Ecosystem"<br />
   <sub>(co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)  
-  * [Rohan Asmat](https://github.com/RohanAsmat),  since 2017; Web Development.
-  * [Julius Kaufmann](https://github.com/juliuskaufmann), since 2017; DevOps.
+  * [Rohan Asmat](https://github.com/RohanAsmat),  October 2017 - June 2019; Web Development.
+  * [Julius Kaufmann](https://github.com/juliuskaufmann), since December 2017 - January 2019; DevOps.
   * [Adrian Bajraktari](https://github.com/AdrianBajraktari), June - September 2018; Web Development.
