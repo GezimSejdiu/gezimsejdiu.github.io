@@ -39,5 +39,5 @@ author_profile: true
   * [Nayef Roqaya](https://github.com/nayefroqaya), 2017 - 2018; Master Thesis: "Distributed Data Parsing and Vandalism Detection on Large Knowledge Graphs using Apache Spark and Hadoop Ecosystem"<br />
   <sub>(co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)  
   * [Rohan Asmat](https://github.com/RohanAsmat),  October 2017 - June 2019; Web Development.
-  * [Julius Kaufmann](https://github.com/juliuskaufmann), since December 2017 - January 2019; DevOps.
+  * [Julius Kaufmann](https://github.com/juliuskaufmann), December 2017 - January 2019; DevOps.
   * [Adrian Bajraktari](https://github.com/AdrianBajraktari), June - September 2018; Web Development.
