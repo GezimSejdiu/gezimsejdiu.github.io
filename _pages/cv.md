@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<sub>Also avaliable on <a href="/Gezim_Sejdiu_Resume.pdf">PDF format</a>.
+<sub>Also available in <a href="/Gezim_Sejdiu_Resume.pdf">PDF format</a>.
 <STYLE type="text/css">
 #page_1 {position:relative; overflow: hidden;margin: 0px 0px 0px 0px;padding: 0px;border: none;width: 816px;}
 #page_1 #id1_1 {border:none;margin: 0px 0px 0px 261px;padding: 0px;border:none;width: 555px;overflow: hidden;}
