@@ -36,6 +36,14 @@ ENGLISH  | Professional working <br>
 </div>
 <DIV id="id1_2_2">
 <h2>EXPERIENCE</h2>
+
+<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b>|
+DATA ENGINEER<br>
+<small>November 2019 – Present | Bonn, Germany</small><br>
+<small><ul>
+<li>Working with Big Data and Data Analysis. 
+</li></ul></small>
+
 <b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b><br>
 RESEARCH ASSOCIATE + PHD STUDENT<br>
 <small>May 2016 – Present | Bonn, Germany</small><br>
@@ -73,7 +81,7 @@ ISWC 2017 Best demonstration award at the International Semantic Web Conference
 <b>RESEARCH INTERESTS</b><br>
 Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search • Machine Learning • Distributed Computing<br>
 <b>PROGRAMMING LANGUAGES</b><br>
-Scala • Java • C# • JavaScript<br>
+Scala • Java • C# • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
 Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce • DevOps/Docker<br>
 
@@ -93,4 +101,4 @@ Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apach
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 19th August 2019</small><br>
+<small>Last Updated on 9th November 2019</small><br>
