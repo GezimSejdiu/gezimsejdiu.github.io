@@ -7,9 +7,8 @@ author_profile: true
 * **Courses**
   * [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
   <sub> _The goal is to provide experience and technical skills related to Big data processing tools like [Apache Spark](http://spark.apache.org/), in addition, to make them acquainted with the functional programming style prevalent in concurrent and parallel programming for Big data._ <br />
-  (**SoSe2019**, _WiSe2018/19_, _SoSe2018_, _WiSe2017/18_, _SoSe2017_)
-* Master Thesis [topics](http://sda.cs.uni-bonn.de/teaching/thesis-announcements/)
-* Supervision
+  (_SoSe2019_, _WiSe2018/19_, _SoSe2018_, _WiSe2017/18_, _SoSe2017_)
+* **Supervision**
   * [Emetis Niazmand](https://github.com/ENiaz), since 2019; Master Thesis <br />
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Gresa Halimi](https://github.com/Gressa) (University of Prishtina), since 2019; Master Thesis <br />
