@@ -37,29 +37,25 @@ ENGLISH  | Professional working <br>
 <DIV id="id1_2_2">
 <h2>EXPERIENCE</h2>
 
-<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b>|
-DATA ENGINEER<br>
+<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b> | DATA ENGINEER<br>
 <small>November 2019 – Present | Bonn, Germany</small><br>
 <small><ul>
 <li>Working with Big Data and Data Analysis. 
 </li></ul></small>
 
-<b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b><br>
-RESEARCH ASSOCIATE + PHD STUDENT<br>
+<b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b> | RESEARCH ASSOCIATE + PHD STUDENT<br>
 <small>May 2016 – Present | Bonn, Germany</small><br>
 <small><ul>
 <li>Working with Semantic Web, Big Data and Data Analysis. Also interested in the area of distributed computing systems (Apache Spark, Apache Flink)</li>
 <li>Conducting <a href="https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab">Distributed Big Data Analytics Lab</a> for master student</li>
 <li>Master thesis supervision</li></ul></small>
 
-<b><a href="http://www.keds-energy.com/">KEDS</a></b><br> 
-SYSTEM ANALYST & SENIOR SOFTWARE DEVELOPER <br>
+<b><a href="http://www.keds-energy.com/">KEDS</a></b> | SYSTEM ANALYST & SENIOR SOFTWARE DEVELOPER <br>
 <small>March 2009 – August 2015 | Prishtina, Kosovo</small>
 <small><ul>
 <li>Worked on analyzing, reviewing and developing new <nobr>in-house</nobr> ﬁnancial software</li></ul></small>
 
-<b><a href="http://expertgroupks.com/">EXPIK</a></b><br>
-SOFTWARE DEVELOPER <br>
+<b><a href="http://expertgroupks.com/">EXPIK</a></b> | SOFTWARE DEVELOPER <br>
 <small>July 2008 – February 2009 | Prishtina, Kosovo</small><br>
 <small><ul>
 <li>Worked on the developing new software applications</li></ul></small>
