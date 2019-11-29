@@ -79,7 +79,7 @@ Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search 
 <b>PROGRAMMING LANGUAGES</b><br>
 Scala • Java • C# • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce • DevOps/Docker<br>
+Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce • DevOps/Docker • Google Cloud Platform<br>
 
 <h2>WORKSHOPS & TUTORIALS</h2>
 <b>WORKSHOPS</b>
