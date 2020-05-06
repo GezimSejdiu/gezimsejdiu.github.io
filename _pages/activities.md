@@ -38,12 +38,8 @@ I. Ermilov, J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, S. 
     * Senior Advisor: [CSCUBS 2019](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS 2018](http://cscubs.cs.uni-bonn.de/2018/)
     * Program Chair of [CSCUBS 2017](http://cscubs.cs.uni-bonn.de/2017/)
   
-  * **Programme Committee (PC) Memberships**
-    * [ESWC 2020 Resources Track](https://2020.eswc-conferences.org/)
-    * [ICSC 2020 Resource Track](https://www.ieee-icsc.org/)
-    * [ISWC 2019 Resources Track](https://iswc2019.semanticweb.org/)
-    * [CoopIS 2019](http://www.otmconferences.org/index.php/conferences/coopis19)
-    * [CKG Workshop 2019](https://wiki.foodmedy.com/index.php/CKG2019)
-    * [CSCUBS 2019](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS 2016](http://cscubs.cs.uni-bonn.de/2016/)
+  * **Programme Committee (PC) & Reviewing Memberships**
+    * Journal(s): [Semantic Web Journal](http://semantic-web-journal.net/)
+    * Conference(s): [ESWC 2020 Resources Track](https://2020.eswc-conferences.org/), [ICSC 2020 Resource Track](https://www.ieee-icsc.org/), [ISWC 2019 Resources Track](https://iswc2019.semanticweb.org/), [CoopIS 2019](http://www.otmconferences.org/index.php/conferences/coopis19), [CKG Workshop 2019](https://wiki.foodmedy.com/index.php/CKG2019), [CSCUBS 2019](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS 2016](http://cscubs.cs.uni-bonn.de/2016/)
 
   

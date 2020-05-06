@@ -34,7 +34,6 @@ author_profile: true
   <sub>(co-supervision with [Dr. Damien Graux](http://sda.cs.uni-bonn.de/people/dr-damien-graux/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Gulnar Khalilova](https://github.com/GulnarKhalil), 2018; Master Thesis<br />
   <sub> (co-supervision with [Dr. Anisa Rula](http://sda.cs.uni-bonn.de/people/dr-anisa-rula/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
-  , , 2018
   * [Tina Boroukhian](https://github.com/TinaBo), 2018; Bachelor Thesis: "Distributed RDF Clustering Framework"<br />
   <sub>(minor supervision, co-supervision with [Dr. Hajira Jabeen](http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/) and [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Wang Zhe](https://github.com/CescWang1991), 2018; Master Thesis: "Efficient In-memory Graph Partitioning Algorithms and Query Engine for RDF Data"<br />
