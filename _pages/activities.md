@@ -12,6 +12,7 @@ I. Ermilov, J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, S. 
 
 ## Talks
 
+1. **The Best of Both Worlds: Unlocking the Power of (big) Knowledge Graphs with SANSA** [@LDAC Workshop 2020](http://linkedbuildingdata.net/ldac2020/), 19.06.2020 ([slides](https://www.slideshare.net/GezimSejdiu/the-best-of-both-worlds-unlocking-the-power-of-big-knowledge-graphs-with-sansa-ldac-workshop-2020-talk))
 1. **Towards A Scalable Semantic-based Distributed Approach for SPARQL query evaluation** [@SEMANTiCS 2019](https://2019.semantics.cc/), 9-12.09.2019 ([slides](https://www.slideshare.net/GezimSejdiu/towards-a-scalable-semanticbased-distributed-approach-for-sparql-query-evaluation-semantics-2019-talk))
 1. **DistLODStats: Distributed Computation of RDF Dataset Statistics** [@ISWC 2018](http://iswc2018.semanticweb.org/), 8-12.10.2018 ([slides](https://www.slideshare.net/GezimSejdiu/distlodstats-distributed-computation-of-rdf-dataset-statistics-iswc-2018-talk))
 1. **The Tale of SANSA Spark** :: SANSA-Notebooks: Developer friendly access to SANSA  [@ISWC 2017](https://iswc2017.semanticweb.org/), 21-25.10.2017 ([slides](https://www.slideshare.net/GezimSejdiu/the-tale-of-sansa-spark-iswc-2017-demo), [demo](https://youtu.be/aHCoWmzUJlE))
