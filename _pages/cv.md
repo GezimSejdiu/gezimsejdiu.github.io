@@ -22,7 +22,12 @@ redirect_from:
 <div id="id1_2_1">
 <h2>EDUCATION</h2>
 <b><a href="https://www.uni-bonn.de/">UNIVERSITY OF BONN</a></b> <br> PHD IN COMPUTER SCIENCE <br>
-<small>since May 2016 | Bonn, Germany</small> <br>
+<small>September 2020 | Bonn, Germany</small> <br>
+<small><ul>
+<li>Thesis: "<b>Efficient Distributed In-Memory Processing of RDF Datasets</b>". 
+</li>
+<li>Supervisor: <a href="http://jens-lehmann.org/">Prof. Dr. Jens Lehmann </a> 
+</li></ul></small>
 <b><a href="https://www.uni-pr.edu/">UNIVERSITY OF PRISHTINA</a></b><br>
 MS IN COMPUTER ENGINEERING <br>
 <small>July 2014 | Prishtina, Kosovo GPA: 9.62 / 10.0</small> <br>
@@ -64,6 +69,8 @@ ENGLISH  | Professional working <br>
 ISWC 2017 Best demonstration award at the International Semantic Web Conference
 
 <h2>TALKS</h2>
+<b>Efficient Distributed In-Memory Processing of RDF Datasets</b>, PhD Viva, 29.09.2020 (<a href="https://www.slideshare.net/GezimSejdiu/efficient-distributed-inmemory-processing-of-rdf-datasets-phd-viva">slides</a>)
+<br>
 <b>The Best of Both Worlds: Unlocking the Power of (big) Knowledge Graphs with SANSA</b> <a href="http://linkedbuildingdata.net/ldac2020/">@LDAC Workshop 2020</a>, 19.06.2020 (<a href="https://www.slideshare.net/GezimSejdiu/the-best-of-both-worlds-unlocking-the-power-of-big-knowledge-graphs-with-sansa-ldac-workshop-2020-talk">slides</a>)
 <br>
 <b>Towards A Scalable Semantic-based Distributed Approach for SPARQL query evaluation</b> <a href="https://2019.semantics.cc/">@SEMANTiCS 2019</a>, 9-12.09.2019 (<a href="https://www.slideshare.net/GezimSejdiu/towards-a-scalable-semanticbased-distributed-approach-for-sparql-query-evaluation-semantics-2019-talk">slides</a>)
@@ -99,4 +106,4 @@ Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apach
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 9th November 2019</small><br>
+<small>Last Updated on 6th October 2020</small><br>
