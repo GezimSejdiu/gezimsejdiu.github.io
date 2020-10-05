@@ -9,7 +9,7 @@ author_profile: true
   <sub> _The goal is to provide experience and technical skills related to Big data processing tools like [Apache Spark](http://spark.apache.org/), in addition, to make them acquainted with the functional programming style prevalent in concurrent and parallel programming for Big data._ <br />
   (_SoSe2019_, _WiSe2018/19_, _SoSe2018_, _WiSe2017/18_, _SoSe2017_)
 * **Supervision**
-  * [Ardit Meti](https://github.com/ameti), 2020; Master Thesis<br />
+  * [Ardit Meti](https://github.com/ameti), 2020; Master Thesis: "An Efficient and Scalable Translational Embedding Model for Dynamic Knowledge Graphs"<br />
   <sub> (co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
   * [Emetis Niazmand](https://github.com/ENiaz), 2019 - 2020; Master Thesis: "An Efficient Semantic Summary Graph for Querying Large RDF Datasets using [SANSA Framework](http://sansa-stack.net/)" <br />
   <sub>(co-supervision with [Prof. Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/))
