@@ -88,7 +88,7 @@ Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search 
 <b>PROGRAMMING LANGUAGES</b><br>
 Scala • Java • C# • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apache Flink • Hadoop MapReduce • DevOps/Docker • Google Cloud Platform<br>
+Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Kubernetes • Terraform • Jenkins • Open Distro for Elasticsearch • Google Cloud Platform<br>
 
 <h2>WORKSHOPS & TUTORIALS</h2>
 <b>WORKSHOPS</b>
@@ -106,4 +106,4 @@ Eclipse/Scala-IDE • L<span>A</span>T<span>E</span>X • Apache Spark • Apach
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 6th October 2020</small><br>
+<small>Last Updated on 28th October 2020</small><br>
