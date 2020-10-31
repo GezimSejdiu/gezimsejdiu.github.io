@@ -30,12 +30,11 @@ I am a Data Engineer at <a href='https://www.dpdhl.jobs/data-science'>Deutsche P
     </div>
   </article>
 
-<!-- Prepare a container for your calendar. -->
+<!-- Prepare a container for your calendar. 
 <div class="calendar">
-    <!-- Loading stuff -->
     Loading the data just for you.
 </div>
 
 <script>
     GitHubCalendar(".calendar", "GezimSejdiu", {responsive:true});
-</script>
+</script> -->
