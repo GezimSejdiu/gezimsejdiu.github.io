@@ -19,28 +19,19 @@ I. Ermilov, J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, S. 
 1. **Distributed Knowledge Graph Processing in SANSA**  @HPI Future SOC – Lab Day (Spring 2017), 25.04.2017 ([video](http://www.tele-task.de/archive/video/html5/32700/)).
 1. **A demo of Apache Flink with Docker on the BDE platform** @2nd BDE Technical Webinar, 20.10.2016 ([slides](https://docs.google.com/presentation/d/1SGnIgtTXPzGbyImmq4NnsYN36U8h5jA3J5RQvE0rVsI/edit#slide=id.p3!), [video](https://www.youtube.com/watch?v=1zHIhFDDdCg&feature=youtu.be))
 
-
-## Workshops & Tutorials
-
-* **Workshops**
-  * [1st Workshop on Large Scale RDF Analytics (LASCAR-19)](http://lascar.sda.tech/)<br />
-  <sub>Half-Day Workshop at [16th European Semantic Web Conference 2019 (ESWC2019)](https://2019.eswc-conferences.org/).<br />
-  **2nd – 6th June 2019, Portorož, Slovenia**
-
-* **Tutorials**
-  * [SANSA’s Leap of Faith: Scalable RDF and Heterogeneous Data Lakes](http://sansa-stack.net/eswc2019-tutorial/)<br />
-  <sub>Half-Day Tutorial at [16th European Semantic Web Conference 2019 (ESWC2019)](https://2019.eswc-conferences.org/).<br />
-  **2nd – 6th June 2019, Portorož, Slovenia**
-
 ## Other Research Community Services
 
   * **Organisation and Chairing**
-    * Co-Chair of "Knowledge Extraction" session @[SEMANTiCS 2019](https://2019.semantics.cc/)
-    * Senior Advisor: [CSCUBS 2019](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS 2018](http://cscubs.cs.uni-bonn.de/2018/)
-    * Program Chair of [CSCUBS 2017](http://cscubs.cs.uni-bonn.de/2017/)
+    * Co-organizer of the [LASCAR'20](http://lascar.sda.tech/) workshop at [ESWC'20](https://2020.eswc-conferences.org/)
+    * Co-organizer of a [SANSA tutorial](http://sansa-stack.net/iswc2020-tutorial/) at [ISWC'20](https://iswc2020.semanticweb.org/)
+    * Co-organizer of the [LASCAR'19](http://lascar.sda.tech/) workshop at [ESWC'19](https://2019.eswc-conferences.org/)
+    * Co-organizer of a [SANSA tutorial](http://sansa-stack.net/eswc2019-tutorial) at [ESWC'19](https://2019.eswc-conferences.org/)
+    * Co-Chair of "Knowledge Extraction" session @[SEMANTiCS'19](https://2019.semantics.cc/)
+    * Senior Advisor: [CSCUBS'19](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS'18](http://cscubs.cs.uni-bonn.de/2018/)
+    * Program Chair of [CSCUBS'17](http://cscubs.cs.uni-bonn.de/2017/)
   
   * **Programme Committee (PC) & Reviewing Memberships**
     * Journal(s): [Semantic Web Journal](http://semantic-web-journal.net/)
-    * Conference(s): [ESWC 2020 Resources Track](https://2020.eswc-conferences.org/), [ICSC 2020 Resource Track](https://www.ieee-icsc.org/), [ISWC 2019 Resources Track](https://iswc2019.semanticweb.org/), [CoopIS 2019](http://www.otmconferences.org/index.php/conferences/coopis19), [CKG Workshop 2019](https://wiki.foodmedy.com/index.php/CKG2019), [CSCUBS 2019](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS 2016](http://cscubs.cs.uni-bonn.de/2016/)
+    * Conference(s): [ESWC'21](https://2021.eswc-conferences.org/), [JOWO'20](https://www.iaoa.org/jowo/2020/index.html), [ESWC'20](https://2020.eswc-conferences.org/), [ICSC'20](https://www.ieee-icsc.org/), [ISWC'19](https://iswc2019.semanticweb.org/), [CoopIS'19](http://www.otmconferences.org/index.php/conferences/coopis19), [CKG Workshop'19](https://wiki.foodmedy.com/index.php/CKG2019), [CSCUBS'19](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS'16](http://cscubs.cs.uni-bonn.de/2016/)
 
   

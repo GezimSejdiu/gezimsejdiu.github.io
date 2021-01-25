@@ -86,20 +86,9 @@ ISWC 2017 Best demonstration award at the International Semantic Web Conference
 <b>RESEARCH INTERESTS</b><br>
 Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search • Machine Learning • Distributed Computing<br>
 <b>PROGRAMMING LANGUAGES</b><br>
-Scala • Java • C# • Python<br>
+Scala • Java • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Kubernetes • Terraform • Jenkins • Open Distro for Elasticsearch • Google Cloud Platform<br>
-
-<h2>WORKSHOPS & TUTORIALS</h2>
-<b>WORKSHOPS</b>
-<ul>
-<li><a href="http://lascar.sda.tech/">1st Workshop on Large Scale RDF Analytics (LASCAR-19)</a><br>
-<small>Half-Day Workshop at <a href="https://2019.eswc-conferences.org/">16th European Semantic Web Conference 2019 (ESWC2019) </a>2nd – 6th June 2019, Portorož, Slovenia</small></li></ul>
-<b>TUTORIALS</b>
-<ul>
-<li><a href="http://sansa-stack.net/eswc2019-tutorial/">SANSA’s Leap of Faith: Scalable RDF and Heterogeneous Data Lakes</a> <br>
-<small>Half-Day Tutorial at <a href="https://2019.eswc-conferences.org/">16th European Semantic Web Conference 2019 (ESWC2019) </a>2nd – 6th June 2019, Portorož, Slovenia</small></li></ul>
-</DIV>
+Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Docker Swarm •  Kubernetes • Terraform • Jenkins • Open Distro for Elasticsearch • Apache Airflow •  Google Cloud Platform<br>
 
 <h2>PUBLICATIONS</h2>
 
