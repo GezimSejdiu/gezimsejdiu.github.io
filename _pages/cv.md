@@ -49,11 +49,17 @@ ENGLISH  | Professional working <br>
 </li></ul></small>
 
 <b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b> | RESEARCH ASSOCIATE + PHD STUDENT<br>
-<small>May 2016 – Present | Bonn, Germany</small><br>
+<small>May 2016 – October 2019 | Bonn, Germany</small><br>
 <small><ul>
-<li>Working with Semantic Web, Big Data and Data Analysis. Also interested in the area of distributed computing systems (Apache Spark, Apache Flink)</li>
-<li>Conducting <a href="https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab">Distributed Big Data Analytics Lab</a> for master student</li>
+<li>Worked with Semantic Web, Big Data and Data Analysis. Also interested in the area of distributed computing systems (Apache Spark, Apache Flink)</li>
+<li>Conducted <a href="https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab">Distributed Big Data Analytics Lab</a> for master student</li>
 <li>Master thesis supervision</li></ul></small>
+
+<b><a href="https://aksw.org/GezimSejdiu.html">InfAI/University of Leipzig </a></b> | GUEST RESEARCHER <br>
+<small>September 2015 – April 2016 | Leipzig, Germany</small><br>
+<small><ul>
+<li>Research on Semantic Web and BigData</li>
+</ul></small>
 
 <b><a href="http://www.keds-energy.com/">KEDS</a></b> | SYSTEM ANALYST & SENIOR SOFTWARE DEVELOPER <br>
 <small>March 2009 – August 2015 | Prishtina, Kosovo</small>
@@ -95,4 +101,4 @@ Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Docker Swarm �
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 28th October 2020</small><br>
+<small>Last Updated on 30th June 2021</small><br>
