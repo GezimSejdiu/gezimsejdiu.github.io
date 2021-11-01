@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gezim Sejdiu"
+title                    : "Dr. Gezim Sejdiu"
 title_separator          : "-"
-name                     : &name "Gezim Sejdiu"
+name                     : &name "Dr. Gezim Sejdiu"
 description              : &description "Senior Data Engineer at Deutsche Post DHL Group, PhD from University of Bonn"
 url                      : https://gezimsejdiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gezim Sejdiu"
+  name             : "Dr. Gezim Sejdiu"
   avatar           : "https://avatars3.githubusercontent.com/u/5259296?s=400&u=2923073a71257798968eb57c860c45d4e7a18d72&v=4"
   bio              : "Senior Data Engineer @DPDHL ; PhD from @UniBonn | @SDA_Research #BigData #SemanticWeb"
   location         : "Bonn, Germany"

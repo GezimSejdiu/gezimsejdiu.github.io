@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Gezim Sejdiu"
+excerpt: "Dr. Gezim Sejdiu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am a Senior Data Engineer at <a href='https://www.dpdhl.jobs/data-science'>Deu
     <div>
       <div class="twoCol1">
         <div >
-<p><strong>Research Interests</strong>
+<p><strong>Interests</strong>
 <ul>
 <li>Big Data</li>
 <li>Data Mining and Data Analysis</li>
