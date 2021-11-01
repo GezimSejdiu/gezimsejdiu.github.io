@@ -24,15 +24,15 @@ redirect_from:
 <b><a href="https://www.uni-bonn.de/">UNIVERSITY OF BONN</a></b> <br> PHD IN COMPUTER SCIENCE <br>
 <small>September 2020 | Bonn, Germany</small> <br>
 <small><ul>
-<li>Thesis: "<b>Efficient Distributed In-Memory Processing of RDF Datasets</b>". 
+<li>Thesis: "<b><a href="http://hdl.handle.net/20.500.11811/8735">Efficient Distributed In-Memory Processing of RDF Datasets</a></b>". 
 </li>
 <li>Supervisor: <a href="http://jens-lehmann.org/">Prof. Dr. Jens Lehmann </a> 
 </li></ul></small>
 <b><a href="https://www.uni-pr.edu/">UNIVERSITY OF PRISHTINA</a></b><br>
 MS IN COMPUTER ENGINEERING <br>
-<small>July 2014 | Prishtina, Kosovo GPA: 9.62 / 10.0</small> <br>
+<small>July 2014 | Prishtina, Kosovo</small> <br>
 BS IN COMPUTER SCIENCE<br>
-<small>January 2009 | Prishtina, Kosovo GPA: 8.69 / 10.0</small>
+<small>January 2009 | Prishtina, Kosovo</small>
 <h2>LINKS</h2>
 <a href="https://github.com/GezimSejdiu">Github</a> | <a href="https://scholar.google.com/citations?user=Lpbwr9oAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/gezim-sejdiu-08b1761b/">LinkedIn</a> | <a href="https://twitter.com/Gezim_Sejdiu">Twitter</a><br>
 <h2>LANGUAGES</h2> <br>
@@ -42,7 +42,7 @@ ENGLISH  | Professional working <br>
 <DIV id="id1_2_2">
 <h2>EXPERIENCE</h2>
 
-<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b> | DATA ENGINEER<br>
+<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b> | SENIOR DATA ENGINEER<br>
 <small>November 2019 – Present | Bonn, Germany</small><br>
 <small><ul>
 <li>Working with Big Data and Data Analysis. 
@@ -89,16 +89,16 @@ ISWC 2017 Best demonstration award at the International Semantic Web Conference
 </DIV>
 <DIV id="id1_3">
 <h2>SKILLS</h2>
-<b>RESEARCH INTERESTS</b><br>
+<b>INTERESTS</b><br>
 Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search • Machine Learning • Distributed Computing<br>
 <b>PROGRAMMING LANGUAGES</b><br>
 Scala • Java • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Docker Swarm •  Kubernetes • Terraform • Jenkins • Open Distro for Elasticsearch • Apache Airflow •  Google Cloud Platform<br>
+Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Docker Swarm •  Kubernetes • Kubeflow • Terraform • Ansible • Jenkins • Open Distro for Elasticsearch / OpenSearch • Apache Airflow •  Google Cloud Platform<br>
 
 <h2>PUBLICATIONS</h2>
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 30th June 2021</small><br>
+<small>Last Updated on 1st November 2021</small><br>
