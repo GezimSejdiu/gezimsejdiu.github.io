@@ -5,7 +5,11 @@ author_profile: true
 ---
 
 * **Courses**
-  * [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223)<br />
+ * Data Programming -- Universum College<br />
+  <sub> _This course teaches core programming concepts (in Python) with an emphasis on real data manipulation tasks from science, engineering, and business.
+  Goal by the end of the course: Given **a data source** and **a problem description**, you can independently write a complete, useful program **to solve the problem**._ <br />
+  (_WiSe2021/22_)
+  * [Lab “Distributed Big Data Analytics”](https://github.com/SmartDataAnalytics/MA-INF-4223-DBDA-Lab)  – (MA-INF 4223) -- University of Bonn<br />
   <sub> _The goal is to provide experience and technical skills related to Big data processing tools like [Apache Spark](http://spark.apache.org/), in addition, to make them acquainted with the functional programming style prevalent in concurrent and parallel programming for Big data._ <br />
   (_SoSe2019_, _WiSe2018/19_, _SoSe2018_, _WiSe2017/18_, _SoSe2017_)
 * **Supervision**

@@ -48,6 +48,12 @@ ENGLISH  | Professional working <br>
 <li>Working with Big Data and Data Analysis. 
 </li></ul></small>
 
+<b><a href="https://www.universum-ks.org/">UNIVERSUM COLLEGE </a></b> | ASSISTANT PROFESSOR<br>
+<small>October 2021 – Present | Prishtine, Kosovo</small><br>
+<small><ul>
+<li>Responsible for courses: Data Programming and Distributed Big Data Analytics @ MSc. Data Science Program.
+</li></ul></small>
+
 <b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b> | RESEARCH ASSOCIATE + PHD STUDENT<br>
 <small>May 2016 – October 2019 | Bonn, Germany</small><br>
 <small><ul>

@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Engineer at <a href='https://www.dpdhl.jobs/data-science'>Deutsche Post DHL Group</a>. I obtained my PhD from [University of Bonn](https://www.uni-bonn.de/), [Smart Data Analytics (SDA)](http://sda.tech) under the supervision of [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/). Prior to that, I did my MSc at [University of Prishtina (UP)](http://uni-pr.edu/), supervised by [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/). My research interest are in the area of Semantic Web, Big Data and Machine Learning. I am also interested in the area of distributed computing systems ([Apache Spark](http://spark.apache.org/), [Apache Flink](http://flink.apache.org/)).
+I am a Senior Data Engineer at <a href='https://www.dpdhl.jobs/data-science'>Deutsche Post DHL Group</a> and an Assistant Professor of Computer Science at [Universum College](https://www.universum-ks.org/en/).
+I obtained my PhD from [University of Bonn](https://www.uni-bonn.de/), [Smart Data Analytics (SDA)](http://sda.tech) under the supervision of [Prof. Dr. Jens Lehmann](http://jens-lehmann.org/).
+Prior to that, I did my MSc at [University of Prishtina (UP)](http://uni-pr.edu/), supervised by [Prof. Dr. Lule Ahmedi](http://luleahmedi.uni-pr.edu/).
+My general interest are in the area of Semantic Web, Big Dat,a and Machine Learning. 
+I am also interested in the area of distributed computing systems ([Apache Spark](http://spark.apache.org/), [Apache Flink](http://flink.apache.org/)).
 
   <article>
     <div>
