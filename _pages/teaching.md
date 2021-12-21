@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Courses**
- * Data Programming -- Universum College<br />
+  * Data Programming -- Universum College<br />
   <sub> _This course teaches core programming concepts (in Python) with an emphasis on real data manipulation tasks from science, engineering, and business.
   Goal by the end of the course: Given **a data source** and **a problem description**, you can independently write a complete, useful program **to solve the problem**._ <br />
   (_WiSe2021/22_)
