@@ -32,6 +32,6 @@ I. Ermilov, J. Lehmann, **G. Sejdiu**, L. Bühmann, P. Westphal, C. Stadler, S. 
   
   * **Programme Committee (PC) & Reviewing Memberships**
     * Journal(s): [Semantic Web Journal](http://semantic-web-journal.net/)
-    * Conference(s): [ESWC'21](https://2021.eswc-conferences.org/), [BIR'21](https://bir2021.omilab.org/home), [JOWO'20](https://www.iaoa.org/jowo/2020/index.html), [ESWC'20](https://2020.eswc-conferences.org/), [ICSC'20](https://www.ieee-icsc.org/), [ISWC'19](https://iswc2019.semanticweb.org/), [CoopIS'19](http://www.otmconferences.org/index.php/conferences/coopis19), [CKG Workshop'19](https://wiki.foodmedy.com/index.php/CKG2019), [CSCUBS'19](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS'16](http://cscubs.cs.uni-bonn.de/2016/)
+    * Conference(s): [ESWC'22](https://2022.eswc-conferences.org/), [ICSC'22](https://www.ieee-icsc.org/), [ESWC'21](https://2021.eswc-conferences.org/), [BIR'21](https://bir2021.omilab.org/home), [JOWO'20](https://www.iaoa.org/jowo/2020/index.html), [ESWC'20](https://2020.eswc-conferences.org/), [ICSC'20](https://www.ieee-icsc.org/), [ISWC'19](https://iswc2019.semanticweb.org/), [CoopIS'19](http://www.otmconferences.org/index.php/conferences/coopis19), [CKG Workshop'19](https://wiki.foodmedy.com/index.php/CKG2019), [CSCUBS'19](http://cscubs.cs.uni-bonn.de/2019/), [CSCUBS'16](http://cscubs.cs.uni-bonn.de/2016/)
 
   
