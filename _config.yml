@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Gezim Sejdiu"
 title_separator          : "-"
 name                     : &name "Dr. Gezim Sejdiu"
-description              : &description "Senior Data Engineer at Deutsche Post DHL Group & Assistant Professor of Computer Science at Universum College, PhD from University of Bonn"
+description              : &description "Tech Lead Data Engineer at Deutsche Post DHL Group & Assistant Professor of Computer Science at Universum College, PhD from University of Bonn"
 url                      : https://gezimsejdiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GezimSejdiu/gezimsejdiu.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dr. Gezim Sejdiu"
   avatar           : "https://avatars3.githubusercontent.com/u/5259296?s=400&u=2923073a71257798968eb57c860c45d4e7a18d72&v=4"
-  bio              : "Senior Data Engineer @DPDHL & Assistant Professor @UniversumCollege ; PhD from @UniBonn | @SDA_Research #BigData #SemanticWeb. Opinions are my own."
+  bio              : "Tech Lead Data Engineer @DPDHL & Assistant Professor @UniversumCollege ; PhD from @UniBonn | @SDA_Research #BigData #SemanticWeb. Opinions are my own."
   location         : "Bonn, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Lpbwr9oAAAAJ&hl=en"
