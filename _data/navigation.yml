@@ -11,6 +11,9 @@ main:
 
   - title: "Activities"
     url: /activities/ 
+  
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "CV"
     url: /cv/

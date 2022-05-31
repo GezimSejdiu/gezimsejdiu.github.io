@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dr. Gezim Sejdiu"
   avatar           : "https://avatars3.githubusercontent.com/u/5259296?s=400&u=2923073a71257798968eb57c860c45d4e7a18d72&v=4"
-  bio              : "Senior Data Engineer @DPDHL & Assistant Professor @UniversumCollege ; PhD from @UniBonn | @SDA_Research #BigData #SemanticWeb"
+  bio              : "Senior Data Engineer @DPDHL & Assistant Professor @UniversumCollege ; PhD from @UniBonn | @SDA_Research #BigData #SemanticWeb. Opinions are my own."
   location         : "Bonn, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Lpbwr9oAAAAJ&hl=en"
@@ -277,7 +277,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-twitter-plugin
   - feedjira
-  - jekyll-display-medium-posts
+  - jekyll-toc
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
