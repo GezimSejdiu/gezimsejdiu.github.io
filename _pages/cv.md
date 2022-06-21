@@ -42,16 +42,26 @@ ENGLISH  | Professional working <br>
 <DIV id="id1_2_2">
 <h2>EXPERIENCE</h2>
 
-<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b> | SENIOR DATA ENGINEER<br>
-<small>November 2019 – Present | Bonn, Germany</small><br>
-<small><ul>
-<li>Working with Big Data and Data Analysis. 
-</li></ul></small>
+<b><a href="https://www.dpdhl.jobs/data-science">DEUTSCHE POST DHL GROUP</a></b>
+<ul>
+<li>TECH LEAD DATA ENGINEER <br>
+    <small>February 2022 – Present | Bonn, Germany</small><br>
+    <small><ul>
+      <li>Tech Lead for the Data Service Line.
+      </li></ul></small>
+</li>
+<li>SENIOR DATA ENGINEER <br>
+    <small>November 2019 – January 2022 | Bonn, Germany</small><br>
+    <small><ul>
+      <li>Working with Big Data and Data Analysis. 
+      </li></ul></small>
+</li>
+</ul>
 
 <b><a href="https://www.universum-ks.org/">UNIVERSUM COLLEGE </a></b> | ASSISTANT PROFESSOR<br>
 <small>October 2021 – Present | Prishtine, Kosovo</small><br>
 <small><ul>
-<li>Responsible for courses: Data Programming and Distributed Big Data Analytics @ MSc. Data Science Program.
+<li>Responsible for courses: Data Programming (a.k.a Python for Data Science) and Distributed Big Data Analytics @ MSc. Data Science Program.
 </li></ul></small>
 
 <b><a href="http://sda.cs.uni-bonn.de/people/gezim-sejdiu/">UNIVERSITY OF BONN </a></b> | RESEARCH ASSOCIATE + PHD STUDENT<br>
@@ -100,11 +110,12 @@ Big Data • Data Mining and Data Analysis • Semantic Web and Semantic Search 
 <b>PROGRAMMING LANGUAGES</b><br>
 Scala • Java • Python<br>
 <b>TOOLS AND TECHNOLOGIES</b><br>
-Apache Spark • Apache Flink • Hadoop MapReduce • Docker • Docker Swarm •  Kubernetes • Kubeflow • Terraform • Ansible • Jenkins • Open Distro for Elasticsearch / OpenSearch • Apache Airflow •  Google Cloud Platform<br>
+Apache Spark • Apache Flink • Docker • Kubernetes • Kubeflow • Terraform • Ansible • Jenkins • Apache Airflow •
+Open Distro for Elasticsearch / OpenSearch • Clickhouse • Redpanda/Kafka • Google Cloud Platform<br>
 
 <h2>PUBLICATIONS</h2>
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/GezimSejdiu/gezimsejdiu.github.io/master/publications.bib&jsonp=1&fullnames=1&theme=side"></script>
 </DIV>
 
-<small>Last Updated on 1st November 2021</small><br>
+<small>Last Updated on 21st June 2022</small><br>
