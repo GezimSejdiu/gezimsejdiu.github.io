@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv sync --locked
+          uv sync
 
       - name: Deploy docs
         run: uv run mkdocs gh-deploy --force
