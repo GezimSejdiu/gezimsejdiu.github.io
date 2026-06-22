@@ -1,0 +1,214 @@
+:root {
+  --gs-card-text: #494e52;
+  --gs-card-bg: #ffffff;
+  --gs-card-border: transparent;
+  --gs-card-shadow: none;
+  --gs-avatar-border: #e8e8e8;
+  --gs-name-text: #2e3133;
+  --gs-bio-text: #6f777d;
+  --gs-follow-text: #ffffff;
+  --gs-follow-bg: #7a8288;
+  --gs-follow-bg-hover: #62696e;
+}
+
+/* Make logo circular in navbar */
+.md-header__logo img {
+  border-radius: 50% !important;
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover;
+}
+
+/* Sync profile card with Material dark mode toggle (slate scheme). */
+[data-md-color-scheme="slate"] {
+  --gs-card-text: #c7d1dc;
+  --gs-card-bg: #161b22;
+  --gs-card-border: transparent;
+  --gs-card-shadow: none;
+  --gs-avatar-border: #374151;
+  --gs-name-text: #e6edf3;
+  --gs-bio-text: #a5b4c7;
+  --gs-follow-text: #e6edf3;
+  --gs-follow-bg: #2b3648;
+  --gs-follow-bg-hover: #34445d;
+}
+
+.gs-profile-card {
+  position: fixed;
+  left: 1rem;
+  top: 5rem;
+  width: 280px;
+  color: var(--gs-card-text);
+  background: var(--gs-card-bg);
+  border: 1px solid var(--gs-card-border);
+  border-radius: 4px;
+  box-shadow: var(--gs-card-shadow);
+  z-index: 20;
+  padding: 1rem;
+}
+
+.gs-profile-card-inner {
+  font-family: var(--md-text-font-family);
+  font-size: 0.78rem;
+  line-height: 1.6;
+}
+
+.gs-profile-card .author__avatar {
+  display: block;
+}
+
+.gs-profile-card .author__avatar img {
+  display: block;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  border: 1px solid var(--gs-avatar-border);
+  padding: 4px;
+  object-fit: cover;
+}
+
+.gs-profile-card .author__content {
+  padding-top: 0.75rem;
+}
+
+.gs-profile-card .author__name {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--gs-name-text);
+}
+
+.gs-profile-card .author__bio {
+  margin: 0.5rem 0 0.75rem;
+  font-size: inherit;
+  color: var(--gs-bio-text);
+}
+
+.gs-profile-card .author__bio a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--gs-follow-bg);
+}
+
+.gs-profile-card .author__bio a:hover {
+  text-decoration-color: currentColor;
+}
+
+.gs-profile-card .author__urls-wrapper {
+  position: relative;
+}
+
+.gs-follow-btn {
+  display: inline-block;
+  border: 0;
+  border-radius: 3px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--gs-follow-text);
+  background: var(--gs-follow-bg);
+  cursor: pointer;
+}
+
+.gs-follow-btn:hover {
+  background: var(--gs-follow-bg-hover);
+}
+
+.gs-profile-card .author__urls {
+  display: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.gs-profile-card .author__urls.is-open {
+  display: block;
+}
+
+.gs-profile-card .author__urls li {
+  font-size: inherit;
+  margin: 0.22rem 0;
+  color: var(--gs-bio-text);
+}
+
+.gs-profile-card .author__urls a,
+.gs-profile-card .gs-contact-item {
+  align-items: center;
+  display: flex;
+  gap: 0.55rem;
+}
+
+.gs-profile-card .gs-contact-icon {
+  align-items: center;
+  color: var(--gs-name-text);
+  display: inline-flex;
+  flex: 0 0 1rem;
+  height: 1rem;
+  justify-content: center;
+  width: 1rem;
+}
+
+.gs-profile-card .gs-contact-icon i {
+  display: inline-flex;
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.gs-profile-card .gs-contact-label {
+  min-width: 0;
+}
+
+.gs-profile-card .author__urls a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.gs-profile-card .author__urls a:hover {
+  text-decoration: underline;
+}
+
+/* Save space in left sidebar by hiding the section title (e.g., "Projects"). */
+.md-sidebar--primary .md-nav__title {
+  display: none;
+}
+
+/* Also hide the duplicated active page label in the left sidebar nav list. */
+.md-sidebar--primary .md-nav__item--active > label.md-nav__link,
+.md-sidebar--primary .md-nav__item--active > a.md-nav__link {
+  display: none !important;
+}
+
+@media (min-width: 1230px) {
+  .gs-follow-btn {
+    display: none;
+  }
+
+  .gs-profile-card .author__urls {
+    display: block;
+  }
+
+  .md-content {
+    margin-left: 0;
+  }
+
+  .md-sidebar--primary {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 1229px) {
+  .gs-profile-card {
+    position: static;
+    width: auto;
+    margin: 0.75rem 0.8rem 0;
+    border-radius: 12px;
+  }
+
+  .md-content {
+    margin-left: 0;
+  }
+
+  .gs-profile-card .author__urls {
+    margin-top: 0.75rem;
+  }
+}
