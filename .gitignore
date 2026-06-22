@@ -1,3 +1,5 @@
 _site/
 .tweet-cache/
+.venv/
+uv.lock
 
